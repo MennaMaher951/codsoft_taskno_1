@@ -1,10 +1,10 @@
-Title: Titanic Survival Prediction with Machine Learning
+## Titanic Survival Prediction with Machine Learning
 
-Description:
+*Description:*
 
 * This repository contains the Python code used to build a machine learning model for predicting passenger survival in the Titanic disaster. The model is based on the Logistic Regression algorithm and trained using historical data from the Titanic dataset.
 
-  * Key Elements:
+  *Key Elements:*
 
 * Data preprocessing:
 1. Import essential libraries (pandas, numpy, etc.).
