@@ -4,7 +4,7 @@ Description:
 
 * This repository contains the Python code used to build a machine learning model for predicting passenger survival in the Titanic disaster. The model is based on the Logistic Regression algorithm and trained using historical data from the Titanic dataset.
 
-* * Key Elements:
+  * Key Elements:
 
 * Data preprocessing:
 1. Import essential libraries (pandas, numpy, etc.).
@@ -12,7 +12,7 @@ Description:
 3. Handle missing values (e.g., filling with mean/median).
 4. Encode categorical features (e.g., Sex, Embarked).
 
-*Exploratory data analysis (EDA):
+* Exploratory data analysis (EDA):
 1. Analyze characteristics of the data (e.g., passenger class, sex, age).
 2. Visualize relationships between features and survival (e.g., count plots).
 
